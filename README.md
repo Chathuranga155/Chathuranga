@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Chathuranga155
+- 👋 Hi, I’m @Chathuranga Bandara
 - 👀 I’m interested in web development and data science, web application,security
 - 🌱 I’m currently learning web development and data science, web application,security 
 - 💞️ I’m looking to collaborate on ...
